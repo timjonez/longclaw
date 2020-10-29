@@ -139,7 +139,7 @@ USBMaker==1.0.0
 virtualenv==20.0.20
 virtualenv-clone==0.5.4
 virtualenvwrapper==4.8.4
-wagtail==2.6.2
+wagtail==2.7.4
 wcwidth==0.2.5
 webencodings==0.5.1
 Willow==1.1
