@@ -41,7 +41,7 @@ django-polymorphic==2.0.3
 django-rest-knox==4.1.0
 django-taggit==0.24.0
 django-treebeard==4.3.1
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 docopt==0.6.2
 draftjs-exporter==2.1.7
 ewmh==0.1.6
