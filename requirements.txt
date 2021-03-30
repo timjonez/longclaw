@@ -94,7 +94,7 @@ ptyprocess==0.6.0
 PyAudio==0.2.11
 pycairo==1.19.1
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 PyGObject==3.36.1
 pyparsing==2.4.7
 pyparted==3.11.1
